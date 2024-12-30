@@ -19,4 +19,6 @@ Este proyecto Backend, tiene 2 framework , cada framework esta en un port separa
 Test:
 
 -Angular
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1EIZBt58NoCyP27XnUTXPi7XwM5tvyQpg/view?usp=sharing))
+![alt text](https://github.com/AlvaroB15/reto1-ntt-begazo/blob/main/test-backend-reto1.png?raw=true)
+
+![alt text](https://github.com/AlvaroB15/reto1-ntt-begazo/blob/main/test-frontend-reto1.png?raw=true)
