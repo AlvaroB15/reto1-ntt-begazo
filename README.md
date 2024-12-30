@@ -15,3 +15,8 @@ Incluí y no ignore el archivo de .env, que se pueda acceder directamente al clu
 Por lado de angular, no es necesario tener instalado el angular, solo la version 18 de node, y se puede usar el npm start, o el npx ng serve. Cabe aclarar que debe tener ejecutando el servicio Backend.
 
 Este proyecto Backend, tiene 2 framework , cada framework esta en un port separado, Los puertos 3000 y 3001 no debe estar en uso al momento de compilar el backend
+
+Test:
+
+-Angular
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1EIZBt58NoCyP27XnUTXPi7XwM5tvyQpg/view?usp=sharing))
